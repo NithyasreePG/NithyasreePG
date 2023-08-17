@@ -4,4 +4,4 @@ I am a final year dual major in Physics and Electrical Engineering. I absolutely
 
 I'm currently doing my thesis in Quantum Field Theory in Curved Spacetime. 
 
-Read more about me <a href = "https://nithyasreepg.github.io/Profile/#projects" >here</a>.
+Read more about me <a href = "https://nithyasreepg.github.io/Profile/" >here</a>.
